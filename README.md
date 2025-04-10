@@ -38,6 +38,9 @@ Dataset disusun secara manual dan terdiri dari beberapa field berikut:
    pip install -r requirements.txt
 3. Jalankan aplikasi menggunakan Streamlit:
    streamlit run app.py
+   
+## Dokumentasi Test Cases
+📄 [Testing Documentation](TESTING.md)
 
 ### ✍️ Catatan Pengembang
 
