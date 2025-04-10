@@ -36,7 +36,10 @@ Dataset disusun secara manual dan terdiri dari beberapa field berikut:
 1. Clone repository ini dan masuk ke folder proyek.
 2. Install semua dependency:
    pip install -r requirements.txt
-3. Jalankan aplikasi menggunakan Streamlit:
+3. Dapatkan API Key Gemini secara gratis melalui [link ini](https://aistudio.google.com/apikey)
+4. Masukkan API key kedalam file .env yang diletakkan di root folder dengan format:
+      GEMINI_API_KEY="gemini_key_pribadi"
+6. Jalankan aplikasi menggunakan Streamlit:
    streamlit run app.py
    
 ## Dokumentasi Test Cases
