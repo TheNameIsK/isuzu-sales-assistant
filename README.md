@@ -42,7 +42,7 @@ Dataset disusun secara manual dan terdiri dari beberapa field berikut:
 ## Dokumentasi Test Cases
 📄 [Testing Documentation](TESTING.md)
 
-### ✍️ Catatan Pengembang
+## ✍️ Catatan Pengembang
 
 Proyek ini dirancang dengan fokus pada fungsionalitas, skalabilitas, dan kemudahan pengembangan ke depan. Beberapa pendekatan teknis yang digunakan:
 
